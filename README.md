@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @JasperBleijenberg
-- 👀 I’m interested in Fisheries Biology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 JasperBleijenberg/JasperBleijenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
